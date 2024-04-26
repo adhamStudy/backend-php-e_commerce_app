@@ -1,0 +1,82 @@
+[07-Feb-2024 10:31:07 America/Chicago] PHP Warning:  Undefined array key "username" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[07-Feb-2024 10:31:07 America/Chicago] PHP Warning:  Undefined array key "phone" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[08-Feb-2024 08:10:26 America/Chicago] PHP Warning:  Undefined array key "username" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[08-Feb-2024 08:10:26 America/Chicago] PHP Warning:  Undefined array key "password" in /home/phptrainu4e/public_html/ecommerce_flutter/auth/signup.php on line 6
+[08-Feb-2024 08:10:26 America/Chicago] PHP Warning:  Undefined array key "phone" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[08-Feb-2024 08:11:00 America/Chicago] PHP Warning:  Undefined array key "username" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[08-Feb-2024 08:11:00 America/Chicago] PHP Warning:  Undefined array key "password" in /home/phptrainu4e/public_html/ecommerce_flutter/auth/signup.php on line 6
+[08-Feb-2024 08:11:00 America/Chicago] PHP Warning:  Undefined array key "phone" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[08-Feb-2024 13:58:57 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usere_approve' in 'where clause' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:34
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(34): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/auth/login.php(14): getData('users', 'users_email = ?...', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 34
+[08-Feb-2024 14:00:02 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usere_approve' in 'where clause' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:34
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(34): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/auth/login.php(14): getData('users', 'users_email = ?...', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 34
+[08-Feb-2024 14:02:30 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usere_approve' in 'where clause' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:34
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(34): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/auth/login.php(14): getData('users', 'users_email = ?...', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 34
+[08-Feb-2024 14:03:40 America/Chicago] PHP Warning:  Undefined variable $count in /home/phptrainu4e/public_html/ecommerce_flutter/auth/login.php on line 16
+[08-Feb-2024 14:03:48 America/Chicago] PHP Warning:  Undefined variable $count in /home/phptrainu4e/public_html/ecommerce_flutter/auth/login.php on line 16
+[08-Feb-2024 14:04:23 America/Chicago] PHP Warning:  Undefined variable $count in /home/phptrainu4e/public_html/ecommerce_flutter/auth/login.php on line 16
+[08-Feb-2024 14:08:17 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column '1' in 'where clause' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:34
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(34): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/auth/login.php(14): getData('users', 'users_email = ?...', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 34
+[08-Feb-2024 14:11:16 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usere_approve' in 'where clause' in /home/phptrainu4e/public_html/ecommerce_flutter/auth/login.php:12
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/auth/login.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/login.php on line 12
+[16-Feb-2024 13:29:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 4
+[16-Feb-2024 13:29:58 America/Chicago] PHP Warning:  Undefined variable $conn in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:29:58 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php:8
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php(8): mysqli_query(NULL, 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:34:20 America/Chicago] PHP Warning:  Undefined variable $conn in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:34:20 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php:8
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php(8): mysqli_query(NULL, 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:34:54 America/Chicago] PHP Warning:  Undefined variable $conn in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:34:54 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php:8
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php(8): mysqli_query(NULL, 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:41:41 America/Chicago] PHP Warning:  Undefined variable $conn in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:41:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:42:59 America/Chicago] PHP Warning:  Undefined variable $conn in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:42:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:54:40 America/Chicago] PHP Warning:  Undefined variable $conn in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:54:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:54:48 America/Chicago] PHP Warning:  Undefined variable $conn in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8
+[16-Feb-2024 13:54:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/resend_verification_code.php on line 8

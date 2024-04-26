@@ -1,0 +1,125 @@
+[07-Feb-2024 12:45:34 America/Chicago] PHP Warning:  include(.../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 12:45:34 America/Chicago] PHP Warning:  include(.../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 12:45:34 America/Chicago] PHP Warning:  include(): Failed opening '.../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 12:45:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 7
+[07-Feb-2024 12:45:41 America/Chicago] PHP Warning:  include(.../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 12:45:41 America/Chicago] PHP Warning:  include(.../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 12:45:41 America/Chicago] PHP Warning:  include(): Failed opening '.../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 12:45:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 7
+[07-Feb-2024 12:59:50 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 12:59:50 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 12:59:50 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 12:59:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 7
+[07-Feb-2024 13:01:54 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:01:54 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:01:54 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:01:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 7
+[07-Feb-2024 13:02:48 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:02:48 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:02:48 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:02:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 7
+[07-Feb-2024 13:05:17 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:05:17 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:05:17 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:05:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 7
+[07-Feb-2024 13:06:17 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:06:17 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:06:17 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:06:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:10:13 America/Chicago] PHP Warning:  include(connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 19
+[07-Feb-2024 13:10:13 America/Chicago] PHP Warning:  include(connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 19
+[07-Feb-2024 13:10:13 America/Chicago] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 19
+[07-Feb-2024 13:11:14 America/Chicago] PHP Warning:  include(connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 19
+[07-Feb-2024 13:11:14 America/Chicago] PHP Warning:  include(connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 19
+[07-Feb-2024 13:11:14 America/Chicago] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 19
+[07-Feb-2024 13:14:25 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:14:25 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:14:25 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:14:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:18:22 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:18:22 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:18:22 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:18:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:28:40 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:28:40 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:28:40 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:28:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:29:06 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:29:06 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:29:06 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:29:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:29:45 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:29:45 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:29:45 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:29:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:33:56 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:33:56 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:33:56 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:33:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:34:31 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:34:31 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:34:31 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:34:31 America/Chicago] PHP Warning:  include(connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 19
+[07-Feb-2024 13:34:31 America/Chicago] PHP Warning:  include(connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 19
+[07-Feb-2024 13:34:31 America/Chicago] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 19
+[07-Feb-2024 13:36:54 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:36:54 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:36:54 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:36:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 13:56:16 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:56:16 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:56:16 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 2
+[07-Feb-2024 13:56:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function filterRequest() in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 3
+[07-Feb-2024 14:03:18 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 17
+[07-Feb-2024 14:03:18 America/Chicago] PHP Warning:  include(../connect.php): Failed to open stream: No such file or directory in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 17
+[07-Feb-2024 14:03:18 America/Chicago] PHP Warning:  include(): Failed opening '../connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/check_email.php on line 17
+[07-Feb-2024 14:13:55 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users_verfiycode' in 'where clause' in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/verify_code.php:12
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/verify_code.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/auth/forget_password/verify_code.php on line 12

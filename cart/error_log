@@ -1,0 +1,605 @@
+[21-Feb-2024 16:38:17 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:46
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(46): PDOStatement->execute(NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(7): getData('cart', 'user_id = 10 AN...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 46
+[21-Feb-2024 16:38:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:46
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(46): PDOStatement->execute(NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(7): getData('cart', 'user_id = 10 AN...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 46
+[21-Feb-2024 16:40:25 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(15): insertData('cart', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[21-Feb-2024 16:40:58 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(15): insertData('cart', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[21-Feb-2024 16:43:01 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(15): insertData('cart', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[21-Feb-2024 16:46:29 America/Chicago] PHP Fatal error:  Uncaught TypeError: PDOStatement::execute(): Argument #1 ($params) must be of type ?array, bool given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:46
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(46): PDOStatement->execute(false)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(7): getData('cart', 'cart_users_id =...', false)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 46
+[21-Feb-2024 16:46:39 America/Chicago] PHP Fatal error:  Uncaught TypeError: PDOStatement::execute(): Argument #1 ($params) must be of type ?array, bool given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:46
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(46): PDOStatement->execute(false)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(7): getData('cart', 'cart_users_id =...', false)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 46
+[21-Feb-2024 16:47:27 America/Chicago] PHP Fatal error:  Uncaught TypeError: PDOStatement::execute(): Argument #1 ($params) must be of type ?array, bool given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:46
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(46): PDOStatement->execute(false)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(7): getData('cart', 'cart_users_id =...', false)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 46
+[21-Feb-2024 16:47:33 America/Chicago] PHP Fatal error:  Uncaught TypeError: PDOStatement::execute(): Argument #1 ($params) must be of type ?array, bool given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:46
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(46): PDOStatement->execute(false)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(7): getData('cart', 'cart_users_id =...', false)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 46
+[21-Feb-2024 16:49:24 America/Chicago] PHP Fatal error:  Uncaught TypeError: PDOStatement::execute(): Argument #1 ($params) must be of type ?array, bool given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:46
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(46): PDOStatement->execute(false)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(7): getData('cart', 'cart_users_id =...', false)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 46
+[21-Feb-2024 16:55:20 America/Chicago] PHP Fatal error:  Uncaught TypeError: PDOStatement::execute(): Argument #1 ($params) must be of type ?array, bool given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:46
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(46): PDOStatement->execute(false)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(7): getData('cart', 'cart_users_id =...', false)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 46
+[21-Feb-2024 17:03:13 America/Chicago] PHP Warning:  Undefined variable $data in /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php on line 17
+[21-Feb-2024 17:03:13 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 66
+[21-Feb-2024 17:03:13 America/Chicago] PHP Warning:  Undefined variable $ins in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:03:13 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:68
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(68): implode(',', NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(17): insertData('cart', NULL)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:03:16 America/Chicago] PHP Warning:  Undefined variable $data in /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php on line 17
+[21-Feb-2024 17:03:16 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 66
+[21-Feb-2024 17:03:16 America/Chicago] PHP Warning:  Undefined variable $ins in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:03:16 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:68
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(68): implode(',', NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(17): insertData('cart', NULL)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:16:29 America/Chicago] PHP Warning:  Undefined variable $data in /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php on line 17
+[21-Feb-2024 17:16:29 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 66
+[21-Feb-2024 17:16:29 America/Chicago] PHP Warning:  Undefined variable $ins in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:16:29 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:68
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(68): implode(',', NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(17): insertData('cart', NULL)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:17:02 America/Chicago] PHP Warning:  Undefined variable $data in /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php on line 17
+[21-Feb-2024 17:17:02 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 66
+[21-Feb-2024 17:17:02 America/Chicago] PHP Warning:  Undefined variable $ins in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:17:02 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:68
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(68): implode(',', NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(17): insertData('cart', NULL)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:18:07 America/Chicago] PHP Warning:  Undefined variable $data in /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php on line 17
+[21-Feb-2024 17:18:07 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 66
+[21-Feb-2024 17:18:07 America/Chicago] PHP Warning:  Undefined variable $ins in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:18:07 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:68
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(68): implode(',', NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(17): insertData('cart', NULL)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:19:26 America/Chicago] PHP Warning:  Undefined variable $data in /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php on line 17
+[21-Feb-2024 17:19:26 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 66
+[21-Feb-2024 17:19:26 America/Chicago] PHP Warning:  Undefined variable $ins in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:19:26 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:68
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(68): implode(',', NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(17): insertData('cart', NULL)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:23:51 America/Chicago] PHP Warning:  Undefined variable $data in /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php on line 17
+[21-Feb-2024 17:23:51 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 66
+[21-Feb-2024 17:23:51 America/Chicago] PHP Warning:  Undefined variable $ins in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:23:51 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:68
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(68): implode(',', NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(17): insertData('cart', NULL)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:24:24 America/Chicago] PHP Warning:  Undefined variable $data in /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php on line 17
+[21-Feb-2024 17:24:24 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 66
+[21-Feb-2024 17:24:24 America/Chicago] PHP Warning:  Undefined variable $ins in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:24:24 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:68
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(68): implode(',', NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/add.php(17): insertData('cart', NULL)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 68
+[21-Feb-2024 17:44:21 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT COUNT(cart.cart_id) as count_items FROM `cart`
+ WHERE cart_users_id = ...' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:46
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(46): PDOStatement->execute(NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/get_count_item.php(8): getData('cart', 'SELECT COUNT(ca...', NULL, true)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 46
+[21-Feb-2024 17:45:57 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT COUNT(cart.cart_id) as count_items FROM `cart`
+ WHERE cart_users_id = ...' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:46
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(46): PDOStatement->execute(NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/cart/get_count_item.php(8): getData('cart', 'SELECT COUNT(ca...', NULL, true)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 46
+[22-Feb-2024 06:29:23 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:04:38 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:05:10 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:06:32 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:07:22 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:07:40 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:14:15 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:15:20 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:20:35 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:21:43 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:22:09 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:27:04 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:38:31 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:59:40 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 07:59:46 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 08:00:26 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 08:09:06 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 08:10:29 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 08:15:56 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 08:16:52 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 08:20:47 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 08:23:55 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 08:31:50 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 08:32:30 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 08:32:46 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 08:34:03 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 11:54:19 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 11:56:30 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 11:56:51 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 11:58:05 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 11:58:43 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 11:59:33 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:00:35 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:04:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:07:01 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:07:14 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:07:43 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:07:53 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:08:39 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:18:05 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:18:23 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:22:34 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:26:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:26:59 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:30:35 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:31:43 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:32:18 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:32:23 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:32:25 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:32:31 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:32:33 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:32:41 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:32:42 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:32:48 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:32:50 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:33:26 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:33:43 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:33:43 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:33:47 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:33:48 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:33:49 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:34:01 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:34:02 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:34:09 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:34:47 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:34:54 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:34:56 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:36:13 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:36:17 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:36:19 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:36:37 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:37:28 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:37:33 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:37:34 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:38:06 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:38:12 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:58:50 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 12:59:37 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:03:37 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:04:08 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:04:57 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:06:12 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:06:57 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:07:03 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:07:22 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:07:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:07:55 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:08:02 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:11:27 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:11:34 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:11:38 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:11:54 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:12:55 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:13:04 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:13:09 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:13:10 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:13:16 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:13:51 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:13:52 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:14:06 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:16:02 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:16:06 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:16:08 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:16:09 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:16:16 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:16:22 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:17:32 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:17:38 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:17:39 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:17:41 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:22:14 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:22:18 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:22:32 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:22:38 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:22:49 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:22:56 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:23:05 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:23:09 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:23:21 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:24:28 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:24:34 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:24:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:24:49 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:24:55 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:25:03 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:25:07 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:25:19 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:25:27 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:25:31 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:25:37 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:25:50 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:25:59 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:26:04 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:26:09 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:26:20 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:33:23 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:33:28 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:33:30 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:33:37 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:36:31 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:36:38 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:36:42 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:36:44 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:36:46 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:36:48 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:36:49 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:36:50 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:38:16 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:38:22 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:38:29 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:38:34 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:38:38 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:38:43 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:38:47 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:39:00 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:39:07 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:39:15 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:39:27 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:39:33 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:39:38 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:39:42 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:39:57 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:40:10 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:41:36 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 13:56:41 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:01:15 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:02:44 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:03:11 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:03:15 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:03:18 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:03:22 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:03:30 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:03:38 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:03:42 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:03:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:06:22 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:17:30 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:17:46 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:22:40 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:23:21 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:25:51 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:26:13 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:28:46 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:29:07 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:30:03 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:30:08 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:31:51 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:32:22 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:32:33 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:33:43 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:38:15 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:38:24 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:38:36 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:39:56 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:40:00 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:40:03 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:40:07 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:40:19 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:40:23 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[22-Feb-2024 14:51:57 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[23-Feb-2024 14:25:38 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[23-Feb-2024 14:25:42 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[23-Feb-2024 14:57:06 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[23-Feb-2024 14:57:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[23-Feb-2024 14:57:48 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[23-Feb-2024 14:57:52 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[23-Feb-2024 14:57:55 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[23-Feb-2024 14:57:58 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 13:26:10 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 13:26:14 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 13:26:24 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 13:57:02 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 13:57:06 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:03:47 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:03:51 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:05:29 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:10:51 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:10:54 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:14:20 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:18:33 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:19:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:20:09 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:21:37 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:26:09 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:26:15 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:26:55 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:27:37 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:27:42 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[24-Feb-2024 14:58:47 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[02-Mar-2024 11:23:21 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[02-Mar-2024 16:47:12 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[02-Mar-2024 16:47:18 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[02-Mar-2024 16:47:23 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[02-Mar-2024 16:47:28 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[02-Mar-2024 16:47:34 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[02-Mar-2024 16:47:40 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[02-Mar-2024 16:47:43 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[02-Mar-2024 16:47:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[02-Mar-2024 16:47:49 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[02-Mar-2024 16:47:52 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[05-Mar-2024 14:55:30 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[05-Mar-2024 14:55:36 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[05-Mar-2024 15:11:37 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[08-Mar-2024 09:19:21 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[08-Mar-2024 09:29:17 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[08-Mar-2024 09:42:46 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[08-Mar-2024 09:47:02 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[08-Mar-2024 10:00:36 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[08-Mar-2024 10:25:16 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 13:45:53 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 14:37:57 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 14:38:09 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 14:39:44 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 14:39:53 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 14:41:38 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 14:53:55 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:04:15 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:04:25 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:08:04 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:08:57 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:10:10 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:10:23 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:11:07 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:11:21 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:13:38 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:13:48 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:15:35 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:15:44 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[11-Mar-2024 15:18:46 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 14:20:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 14:23:30 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 14:32:00 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 14:32:15 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 14:40:37 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 15:09:59 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 15:11:26 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 15:13:35 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 15:21:08 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 15:29:23 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 17:08:16 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 17:08:16 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_orders' in 'where clause' in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php:10
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php on line 10
+[14-Mar-2024 17:09:04 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Mar-2024 17:09:04 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_orders' in 'where clause' in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php:10
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php on line 10
+[15-Mar-2024 16:01:12 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:01:12 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_orders' in 'where clause' in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php:10
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php on line 10
+[15-Mar-2024 16:01:41 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:01:41 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_orders' in 'where clause' in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php:10
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php on line 10
+[15-Mar-2024 16:03:16 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:03:16 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'item_total_price' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php:10
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php on line 10
+[15-Mar-2024 16:04:38 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:04:38 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'item_total_price' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php:10
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php on line 10
+[15-Mar-2024 16:07:35 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:07:35 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'item_total_price' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php:10
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/cart/view.php on line 10
+[15-Mar-2024 16:09:06 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:09:42 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:10:56 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:17:50 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:17:55 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:17:59 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:18:03 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:18:23 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:20:49 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:39:29 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:39:34 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:39:37 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:39:41 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:40:00 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[15-Mar-2024 16:40:06 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 15:36:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 15:37:17 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 15:38:21 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 15:39:26 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 15:40:51 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 15:41:14 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 15:54:46 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 15:57:39 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 15:57:46 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:04:11 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:04:25 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:05:54 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:08:19 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:08:40 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:12:36 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:12:48 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:24:59 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:25:24 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:30:12 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:30:29 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:35:32 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:35:39 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:35:48 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:37:27 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:37:31 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:40:09 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:40:19 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:42:54 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:45:35 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:47:17 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:49:24 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:52:18 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:57:29 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 16:58:57 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:00:13 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:02:31 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:04:16 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:09:54 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:10:10 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:10:47 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:11:40 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:14:51 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:20:49 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:21:04 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:23:40 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:24:25 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:29:20 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:30:20 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:31:36 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:33:09 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:36:11 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:36:49 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:38:11 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:38:19 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:44:26 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:44:34 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:45:43 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:47:41 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 17:58:05 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:03:34 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:05:15 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:06:32 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:12:39 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:12:51 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:18:57 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:33:59 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:47:11 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:47:16 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:48:25 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:57:14 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:57:35 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 18:57:58 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 19:05:01 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[20-Mar-2024 19:05:12 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 15:01:48 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 15:02:35 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 15:08:10 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 15:11:02 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 15:13:15 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 15:17:51 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 15:23:48 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 15:24:02 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 15:24:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 16:08:36 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 16:19:08 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 16:19:20 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 16:21:03 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 16:39:00 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[25-Mar-2024 16:39:27 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 14:11:30 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 14:12:53 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 14:14:23 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 14:17:55 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 14:18:06 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 14:34:08 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 14:34:58 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 14:35:39 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 14:36:02 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 14:39:59 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 15:26:46 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 15:26:50 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 15:27:01 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 15:30:34 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 15:33:16 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 15:35:14 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 15:36:36 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 15:37:19 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 15:40:24 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 15:43:17 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 16:03:57 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 16:04:34 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 16:04:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 16:04:55 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 16:09:27 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 16:09:57 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 16:10:09 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[27-Mar-2024 16:10:17 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11

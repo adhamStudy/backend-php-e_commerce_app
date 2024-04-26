@@ -1,0 +1,146 @@
+[02-Mar-2024 14:26:01 America/Chicago] PHP Warning:  Undefined variable $lang in /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php on line 20
+[02-Mar-2024 14:26:01 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(23): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 14:29:34 America/Chicago] PHP Warning:  Undefined variable $lang in /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php on line 20
+[02-Mar-2024 14:29:34 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(23): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 14:30:51 America/Chicago] PHP Warning:  Undefined variable $lang in /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php on line 20
+[02-Mar-2024 14:30:51 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(23): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 14:31:01 America/Chicago] PHP Warning:  Undefined variable $lang in /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php on line 20
+[02-Mar-2024 14:31:01 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(23): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 14:31:04 America/Chicago] PHP Warning:  Undefined variable $lang in /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php on line 20
+[02-Mar-2024 14:31:04 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(23): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 14:31:11 America/Chicago] PHP Warning:  Undefined array key "Lang" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[02-Mar-2024 14:31:11 America/Chicago] PHP Warning:  Undefined variable $lang in /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php on line 20
+[02-Mar-2024 14:31:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(23): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 14:34:41 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(23): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 14:46:44 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(25): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 14:52:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(25): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 14:55:58 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(26): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 15:00:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(26): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 15:00:27 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(26): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 15:03:39 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(26): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 15:05:01 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(26): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 15:08:16 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(26): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 15:08:18 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(26): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 15:08:20 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(26): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 15:15:53 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(26): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 15:20:50 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(27): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 15:29:36 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(23): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 15:29:40 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:76
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(76): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(23): insertData('address', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 76
+[02-Mar-2024 15:30:24 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:46
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(46): PDOStatement->execute(NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/add.php(24): getData('address')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 46
+[02-Mar-2024 16:17:28 America/Chicago] PHP Warning:  Undefined variable $users_id in /home/phptrainu4e/public_html/ecommerce_flutter/address/view.php on line 5
+[02-Mar-2024 16:17:28 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:23
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(23): PDOStatement->execute(NULL)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/address/view.php(5): getAllData('address', 'address_user_id...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 23

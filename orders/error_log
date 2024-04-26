@@ -1,0 +1,101 @@
+[14-Mar-2024 16:42:41 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'MAX' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php:27
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php on line 27
+[14-Mar-2024 16:43:45 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'MAX' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php:27
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php on line 27
+[14-Mar-2024 16:47:42 America/Chicago] PHP Warning:  Undefined variable $user_id in /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php on line 32
+[14-Mar-2024 16:47:42 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND cart_orders=0' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(32): updateData('cart', Array, 'cart_users_id= ...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[14-Mar-2024 16:48:39 America/Chicago] PHP Warning:  Undefined variable $user_id in /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php on line 32
+[14-Mar-2024 16:48:39 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND cart_orders=0' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(32): updateData('cart', Array, 'cart_users_id= ...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[14-Mar-2024 16:48:51 America/Chicago] PHP Warning:  Undefined variable $user_id in /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php on line 32
+[14-Mar-2024 16:48:51 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND cart_orders=0' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(32): updateData('cart', Array, 'cart_users_id= ...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[14-Mar-2024 16:50:20 America/Chicago] PHP Warning:  Undefined variable $user_id in /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php on line 32
+[14-Mar-2024 16:50:20 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND cart_orders = 0' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(32): updateData('cart', Array, 'cart_users_id =...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[14-Mar-2024 17:00:39 America/Chicago] PHP Warning:  Undefined variable $user_id in /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php on line 32
+[14-Mar-2024 17:00:39 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND cart_orders = 0' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(32): updateData('cart', Array, 'cart_users_id =...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[20-Mar-2024 18:10:14 America/Chicago] PHP Warning:  Undefined variable $user_id in /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php on line 32
+[20-Mar-2024 18:10:14 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND cart_orders=0' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(32): updateData('cart', Array, 'cart_users_id= ...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[20-Mar-2024 18:10:16 America/Chicago] PHP Warning:  Undefined variable $user_id in /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php on line 32
+[20-Mar-2024 18:10:16 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND cart_orders=0' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(32): updateData('cart', Array, 'cart_users_id= ...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[27-Mar-2024 15:27:15 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_order' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(46): updateData('cart', Array, 'cart_users_id=1...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[27-Mar-2024 15:40:33 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_order' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(46): updateData('cart', Array, 'cart_users_id=1...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[27-Mar-2024 15:44:59 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_order' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(51): updateData('cart', Array, 'cart_users_id=1...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[27-Mar-2024 15:46:24 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_order' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(51): updateData('cart', Array, 'cart_users_id=1...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[27-Mar-2024 15:52:48 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_order' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(51): updateData('cart', Array, 'cart_users_id=1...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[27-Mar-2024 15:55:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_order' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(51): updateData('cart', Array, 'cart_users_id=1...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102
+[27-Mar-2024 16:05:01 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cart_order' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:102
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(102): PDOStatement->execute(Array)
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/orders/checkout.php(51): updateData('cart', Array, 'cart_users_id=1...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 102

@@ -1,0 +1,4 @@
+[08-Feb-2024 15:15:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getAllData() in /home/phptrainu4e/public_html/ecommerce_flutter/categories/view.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/categories/view.php on line 2

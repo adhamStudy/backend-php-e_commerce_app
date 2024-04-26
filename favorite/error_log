@@ -1,0 +1,234 @@
+[14-Feb-2024 09:15:37 America/Chicago] PHP Warning:  Undefined array key "favorite_items_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:15:37 America/Chicago] PHP Warning:  Undefined array key "favorite_users_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:15:37 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`phptrainu4e_ecommerce_store`.`favorite`, CONSTRAINT `favorite_ibfk_1` FOREIGN KEY (`favorite_items_id`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(8): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:15:53 America/Chicago] PHP Warning:  Undefined array key "favorite_items_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:15:53 America/Chicago] PHP Warning:  Undefined array key "favorite_users_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:15:53 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`phptrainu4e_ecommerce_store`.`favorite`, CONSTRAINT `favorite_ibfk_1` FOREIGN KEY (`favorite_items_id`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(8): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:18:58 America/Chicago] PHP Warning:  Undefined array key "items_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:18:58 America/Chicago] PHP Warning:  Undefined array key "users_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:18:58 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`phptrainu4e_ecommerce_store`.`favorite`, CONSTRAINT `favorite_ibfk_1` FOREIGN KEY (`favorite_items_id`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(8): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:19:06 America/Chicago] PHP Warning:  Undefined array key "items_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:19:06 America/Chicago] PHP Warning:  Undefined array key "users_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:19:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`phptrainu4e_ecommerce_store`.`favorite`, CONSTRAINT `favorite_ibfk_1` FOREIGN KEY (`favorite_items_id`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(8): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:19:18 America/Chicago] PHP Warning:  Undefined array key "items_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:19:18 America/Chicago] PHP Warning:  Undefined array key "users_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:19:18 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`phptrainu4e_ecommerce_store`.`favorite`, CONSTRAINT `favorite_ibfk_1` FOREIGN KEY (`favorite_items_id`) REFERENCES `items` (`items_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(8): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:22:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(8): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:22:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(8): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:25:46 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:25:46 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:25:46 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(8): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:26:02 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:26:02 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:26:02 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(8): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:27:11 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:27:11 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:27:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(10): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:28:19 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:28:19 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:28:19 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(10): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:32:19 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(10): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:33:15 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:33:15 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:33:15 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND favorite_items_id =' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:112
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(112): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/remove.php(9): deleteData('favorite', 'favorite_users_...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 112
+[14-Feb-2024 09:34:57 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(10): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:37:24 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php:25
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(25): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(10): insert1Data('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php on line 25
+[14-Feb-2024 09:40:24 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:40:24 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:40:24 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(10): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:44:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(10): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:47:49 America/Chicago] PHP Warning:  Undefined array key "usersid" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:47:49 America/Chicago] PHP Warning:  Undefined array key "itemsid" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:47:49 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'favorite_usersid' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(16): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:48:57 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'favorite_usersid' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(16): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:49:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'favorite_usersid' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(16): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:49:58 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'favorite_usersid' in 'field list' in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(16): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[14-Feb-2024 09:50:47 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:50:47 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:50:47 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND favorite_items_id =' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:112
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(112): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/remove.php(9): deleteData('favorite', 'favorite_users_...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 112
+[14-Feb-2024 09:52:05 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:52:05 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:52:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND favorite_items_id =' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:112
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(112): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/remove.php(9): deleteData('favorite', 'favorite_users_...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 112
+[14-Feb-2024 09:53:45 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:53:45 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:53:45 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND favorite_items_id =' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:112
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(112): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/remove.php(9): deleteData('favorite', 'favorite_users_...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 112
+[14-Feb-2024 09:53:53 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:53:53 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:53:53 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND favorite_items_id =' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:112
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(112): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/remove.php(9): deleteData('favorite', 'favorite_users_...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 112
+[14-Feb-2024 09:56:15 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:56:15 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:56:15 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND favorite_items_id =' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:112
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(112): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/remove.php(9): deleteData('favorite', 'favorite_users_...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 112
+[14-Feb-2024 09:56:30 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:56:30 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:56:30 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND favorite_items_id =' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:112
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(112): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/remove.php(9): deleteData('favorite', 'favorite_users_...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 112
+[14-Feb-2024 09:56:35 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:56:35 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:56:35 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND favorite_items_id =' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:112
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(112): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/remove.php(9): deleteData('favorite', 'favorite_users_...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 112
+[14-Feb-2024 09:56:36 America/Chicago] PHP Warning:  Undefined array key "user_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:56:36 America/Chicago] PHP Warning:  Undefined array key "item_id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 09:56:36 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND favorite_items_id =' at line 1 in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:112
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(112): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/remove.php(9): deleteData('favorite', 'favorite_users_...')
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 112
+[14-Feb-2024 15:06:54 America/Chicago] PHP Warning:  Undefined array key "id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[14-Feb-2024 15:09:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 11
+[16-Feb-2024 15:33:30 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`phptrainu4e_ecommerce_store`.`favorite`, CONSTRAINT `favorite_ibfk_2` FOREIGN KEY (`favorite_users_id`) REFERENCES `users` (`users_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(16): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[16-Feb-2024 15:34:12 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`phptrainu4e_ecommerce_store`.`favorite`, CONSTRAINT `favorite_ibfk_2` FOREIGN KEY (`favorite_users_id`) REFERENCES `users` (`users_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(16): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
+[16-Feb-2024 15:34:33 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`phptrainu4e_ecommerce_store`.`favorite`, CONSTRAINT `favorite_ibfk_2` FOREIGN KEY (`favorite_users_id`) REFERENCES `users` (`users_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php:70
+Stack trace:
+#0 /home/phptrainu4e/public_html/ecommerce_flutter/functions.php(70): PDOStatement->execute()
+#1 /home/phptrainu4e/public_html/ecommerce_flutter/favorite/add.php(16): insertData('favorite', Array)
+#2 {main}
+  thrown in /home/phptrainu4e/public_html/ecommerce_flutter/functions.php on line 70
